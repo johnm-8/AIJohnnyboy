@@ -1,4 +1,4 @@
-
+<script src="https://tryhackme.com/badge/2269223"></script>
 # 🚀 **Awesome Project Title** 🚀
 
 ![Project Logo](https://placekitten.com/600/200)
